@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lost_find_menu.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\menu\\lost_find_menu.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lost_find_menu.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\menu\\lost_find_menu.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lost_find_menu.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\menu\\lost_find_menu.xml"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\my_projects\Projects\mobileguard\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_6bb289d60e4e55d53229b6a7645f9eb63f20b7aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\my_projects\Projects\mobileguard\app\libs\RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f20254cf0ef9dd3e07c200540ec606668a713fa">
+        <dex dex="F:\my_projects\Projects\mobileguard\app\build\intermediates\pre-dexed\debug\RootTools_240f0bbca20cf9a162894e9e578afb62623db5df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\my_projects\Projects\mobileguard\app\libs\xUtils-2.6.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="706db57636e6687c4d38d7b62a92d06b027e9952">
+        <dex dex="F:\my_projects\Projects\mobileguard\app\build\intermediates\pre-dexed\debug\xUtils-2.6.8_6d2e63e67f1e34a82822f7ff25c79d2a07bea243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\my_projects\Projects\mobileguard\app\libs\StartAppInApp-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12356c21c15e847fce0d686b7b2003be119816fe">
+        <dex dex="F:\my_projects\Projects\mobileguard\app\build\intermediates\pre-dexed\debug\StartAppInApp-2.4.1_eab618685a5673d4c9bdd1130249c994be8d7356.jar" />
+    </item>
+
+</items>

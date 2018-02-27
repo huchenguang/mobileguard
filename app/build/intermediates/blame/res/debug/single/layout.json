@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_callsms.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_callsms.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_unlock.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\fragment_unlock.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_atools.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_callsms.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\item_callsms.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tesat.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\tesat.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_callsms.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_callsms.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_manager.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_task_manager.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_unlock.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_locked.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_locked.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic_manager.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_traffic_manager.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_setting_view.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\ui_setting_view.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_blacknumber.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_add_blacknumber.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_query.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_address_query.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_clean_cache.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\item_unlock.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic_manager.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_traffic_manager.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_atools.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_blacknumber.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_add_blacknumber.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_locked.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\fragment_locked.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anti_virus.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_anti_virus.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager_setting.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_lock.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_lock.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_grid.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_home_grid.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cache_info.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\item_cache_info.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_showaddress.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\toast_showaddress.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_manager.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_query.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_address_query.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_lock.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_lock.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager_setting.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_enter_pwd.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_enter_pwd.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cache_info.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_cache_info.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_lock.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_lock.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_locked.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_locked.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_atools.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_atools.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_enter_pwd.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_enter_pwd.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_locked.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\item_locked.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_grid.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_home_grid.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_enter_pwd.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_enter_pwd.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_item.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\popup_item.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_manager.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_app_manager.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\item_app_manager.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_pwd.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_enter_pwd.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setup_pwd.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_setup_pwd.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_setting_view.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\ui_setting_view.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_locked.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\fragment_locked.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tesat.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\tesat.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager_setting.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager_setting.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_unlock.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\fragment_unlock.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_pwd.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_enter_pwd.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup3.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup3.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_query.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_address_query.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_app_manager.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_app_manager.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_app_manager.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_app_manager.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anti_virus.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_anti_virus.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_manager.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_task_manager.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anti_virus.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_anti_virus.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_enter_pwd.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_enter_pwd.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_manager.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_task_manager.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup1.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup1.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic_manager.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_traffic_manager.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe2.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe2.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_setting_view.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\ui_setting_view.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe2.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe2.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup4.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup4.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_locked.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\fragment_locked.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_manager.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\item_task_manager.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_callsms_safe2.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_callsms_safe2.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_blacknumber.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_add_blacknumber.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setup_pwd.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_setup_pwd.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setup_pwd.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\dialog_setup_pwd.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_grid.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\item_home_grid.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_manager.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_app_manager.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_clean_cache.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clean_cache.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_clean_cache.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_showaddress.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\toast_showaddress.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_unlock.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_unlock.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tesat.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\tesat.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_cache_info.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\item_cache_info.xml"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_item.xml",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\popup_item.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lost_find.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_lost_find.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_showaddress.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\toast_showaddress.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setup2.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\activity_setup2.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\process_widget.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\process_widget.xml"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_item.xml",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\layout\\popup_item.xml"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_unlock.xml",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\layout\\fragment_unlock.xml"
+    }
+]

@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_default.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_default.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img3.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img3.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_delete_btn_focused.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_delete_btn_focused.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\local_popup_bg.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\local_popup_bg.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\safe.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\safe.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img4.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img4.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\luncher_bg.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\luncher_bg.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\previous.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_left_pressed.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\app_pressed.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\app_pressed.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img4.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img4.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_right_default.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_right_default.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_menu_import_export.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_menu_import_export.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\safe.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\safe.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\settings.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\security_progress.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\security_progress.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_left_default.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_left_default.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img2.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img2.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img3.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img3.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\atools.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\atools.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\jiantou1_pressed.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\jiantou1_pressed.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\app.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\security_progress.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\security_progress.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait_child.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\jiantou1.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\jiantou1.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_left_pressed.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\app.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child_divider.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bind.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\bind.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\trojan.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\trojan.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_scanner_malware.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_scanner_malware.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait_child.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\luncher_bg.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\luncher_bg.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bind.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\bind.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\bind.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\bind.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img1.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img1.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\app_pressed.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\app_pressed.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\security_progress_bg.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\security_progress_bg.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\list_devider.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\list_devider.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\luncher_bg.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\luncher_bg.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_delete_btn.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_delete_btn.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_delete_btn.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_delete_btn.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\list_devider.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\list_devider.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_delete_btn_focused.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_delete_btn_focused.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\security_progress_bg.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\security_progress_bg.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\app_pressed.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\app_pressed.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_right_default.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_right_default.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sysoptimize.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\sysoptimize.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img3.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img3.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\local_popup_bg.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\local_popup_bg.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\setup1.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\setup1.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_right_default.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_right_default.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img4.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img4.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_delete_btn.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_delete_btn.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\list_devider.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\list_devider.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\trojan.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\trojan.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_menu_import_export.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_menu_import_export.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\atools.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\atools.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child_divider.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img1.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img1.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_left_pressed.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_left_pressed.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_right_pressed.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_right_pressed.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sysoptimize.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\sysoptimize.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_scanner_malware.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_scanner_malware.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\local_popup_bg.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\local_popup_bg.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\jiantou1.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\jiantou1.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_right_pressed.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_right_pressed.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\act_scanning_03.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\main_icon_36.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\main_icon_36.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\previous.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\callmsgsafe.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\callmsgsafe.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\netmanager.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\netmanager.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\function_greenbutton_normal.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\function_greenbutton_normal.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\app.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\app.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\security_progress_bg.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\security_progress_bg.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_left_default.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_left_default.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\function_greenbutton_normal.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\function_greenbutton_normal.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\callmsgsafe.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\callmsgsafe.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_right_pressed.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_right_pressed.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\act_scanning_03.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\jiantou1_pressed.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\jiantou1_pressed.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\taskmanager.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\taskmanager.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\tab_left_default.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\tab_left_default.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\setup1.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\setup1.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\settings.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child_divider.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_default.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_default.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\function_greenbutton_normal.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\function_greenbutton_normal.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_delete_btn_focused.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_delete_btn_focused.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\main_icon_36.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\main_icon_36.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\netmanager.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\netmanager.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\function_greenbutton_pressed.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\function_greenbutton_pressed.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img2.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img2.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_default.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_default.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\callmsgsafe.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\callmsgsafe.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img1.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img1.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sysoptimize.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\sysoptimize.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\jiantou1_pressed.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\jiantou1_pressed.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\img2.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\img2.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\phone.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\netmanager.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\netmanager.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\act_scanning_03.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\act_scanning_03.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\trojan.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\trojan.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\taskmanager.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\taskmanager.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\previous.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\setup1.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\setup1.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\function_greenbutton_pressed.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\function_greenbutton_pressed.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\safe.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\safe.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\unlock.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\unlock.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_menu_import_export.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_menu_import_export.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\settings.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait_child.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait_child.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\function_greenbutton_pressed.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\function_greenbutton_pressed.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\atools.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\atools.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_scanner_malware.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_scanner_malware.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\widget_bg_portrait.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\widget_bg_portrait.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\main_icon_36.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\main_icon_36.png"
+    },
+    {
+        "merged": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\taskmanager.png",
+        "source": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\taskmanager.png"
+    },
+    {
+        "merged": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\jiantou1.png",
+        "source": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\androidTest\\res\\drawable-hdpi\\jiantou1.png"
+    }
+]

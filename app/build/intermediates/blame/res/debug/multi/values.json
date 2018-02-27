@@ -1,0 +1,909 @@
+[
+    {
+        "outputFile": "F:\\my_projects\\Projects\\mobileguard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 40,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 52,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 6,
+                        "startOffset": 163,
+                        "endColumn": 54,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 56,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 10,
+                        "startOffset": 223,
+                        "endColumn": 62,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 60,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 60,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 42,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 42,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 52,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 50,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 55,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 55,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 103,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 103,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 68,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\serviceinfo.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 68,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1355,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 8,
+                        "startOffset": 1518,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1887
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1892,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "F:\\my_projects\\Projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 5,
+                        "startOffset": 928,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1097
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\android_studio_projects\\projects\\mobileguard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 40,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 52,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 6,
+                        "startOffset": 163,
+                        "endColumn": 54,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 56,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 10,
+                        "startOffset": 223,
+                        "endColumn": 62,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 60,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 60,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 42,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 42,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 52,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 50,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 55,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 55,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 103,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 103,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 68,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\serviceinfo.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 68,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1355,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 8,
+                        "startOffset": 1518,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1887
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1892,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "F:\\android_studio_projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 5,
+                        "startOffset": 928,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1097
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\android studio projects\\projects\\mobileguard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 52,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 56,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 60,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 42,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 52,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 50,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 55,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 103,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endColumn": 68,
+                    "endOffset": 772
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\serviceinfo.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 68,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 777,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1355,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1887
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1892,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "I:\\android studio projects\\projects\\mobileguard\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
